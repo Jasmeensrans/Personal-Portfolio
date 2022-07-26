@@ -58,7 +58,7 @@ export default function Landing() {
         <Grid xs={4} ml={3}>
           <animated.img
             className="profile"
-            src="/picture.jpg"
+            src="picture.jpg"
             alt=""
             style={props}
           />

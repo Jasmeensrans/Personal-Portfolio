@@ -1,0 +1,13 @@
+.course-container{
+    display: inline-block;
+    border: 1px solid #BB4AFF;
+    margin-left: 15px;
+
+    width: 12vw;
+}
+.course-container:hover{
+    cursor: pointer;
+    background-color: #BB4AFF;
+    border: none;
+    
+}

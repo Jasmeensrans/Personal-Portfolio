@@ -1,0 +1,30 @@
+.nav{
+    color: #4EC9B0 !important;
+    font-family: 'Ubuntu Mono';
+    text-decoration: none !important;
+    font-weight: lighter !important;
+}
+.nav:hover{
+    cursor: pointer;
+    color: #1cfdd0 !important;
+}
+.custom-button {
+    border: 1px solid #BB4AFF !important;
+}
+.custom-button:hover{
+    background-color: #BB4AFF !important;
+    color: #f0e6f7 !important;
+}
+.html-tag{
+    font-family: 'Ubuntu Mono';
+    color: #4b4b4b;
+}
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    border-radius: 100px;
+    border: none;
+    background-color: transparent;
+  }

@@ -2,7 +2,7 @@
   "name": "personal_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jasmeensrans.github.io/personal_portfolio",
+  "homepage": "https://jasmeensrans.github.io/personal_portfolio/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",

@@ -65,7 +65,7 @@ export default function AboutMe() {
           </Grid>
           <Grid xs={2}>
             <Box textAlign="center">
-              <img src="Sewing.png" alt="" />
+              <img src="sewing.png" alt="" />
               <p style={{ color: "#369CED", fontFamily: "Ubuntu Mono" }}>
                 Sewing
               </p>

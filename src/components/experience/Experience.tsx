@@ -35,7 +35,7 @@ export default function Experience() {
           <p style={{ fontFamily: "Ubuntu Mono", color: "white" }}>
           <TypeAnimation
                 cursor={true}
-                sequence={["The online courses I have completed.", 1000]}
+                sequence={["The online courses I have completed.", 1000, " "]}
                 wrapper="p"
                 repeat={Infinity}
               />

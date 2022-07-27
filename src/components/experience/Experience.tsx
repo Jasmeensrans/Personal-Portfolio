@@ -89,10 +89,9 @@ export default function Experience() {
             <p style={{color: 'white', fontFamily: 'Ubuntu Mono', fontWeight: "bold"}}>Software Engineer Intern</p>
             <p style={{color: 'white', fontFamily: 'Ubuntu Mono'}}><i>September 2019 - May 2024</i></p>
             <ul style={{color: 'white', fontFamily: 'Ubuntu Mono'}}>
-              <li>desiging frontend UX using React JS, react-query and Redux</li>
-              <li>coding backend API using ASP.NET</li>
-              <li>writing unit tests using react-testing library</li>
-              <li>developing software based on customer needs</li>
+              <li>Modernized front-end legacy features using React in order to improve user experience</li>
+              <li>Programmed back-end API services in ASP .NET</li>
+              <li>Operated in agile workflow</li>
             </ul>
             </div>
           </Box>

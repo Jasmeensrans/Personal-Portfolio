@@ -45,7 +45,7 @@ export default function Experience() {
             <CourseCard title=".Net Core and React" author="Udemy" pic="netReact.png" link="https://www.udemy.com/share/101KPu3@h7eOf37c91wxF3zzr1t5ijvMVfEWV0fLAcoXPVtSYQXdIqZlIlJQHzW2ijzB_HdLTw==/"/>
             <CourseCard title="React JS Full Course" author="Free Code Camp" pic="react.png" link="https://www.youtube.com/watch?v=DLX62G4lc44"/>
             <CourseCard title="C# Tutorial Full Course" author="Free Code Camp" pic="csharp.png" link="https://www.youtube.com/watch?v=GhQdlIFylQ8"/>
-            <CourseCard title="Javascript Programming" author="Caleb Curey" pic="netReact.png" link="https://www.youtube.com/watch?v=9M4XKi25I2M"/>
+            <CourseCard title="Javascript Programming" author="Caleb Curey" pic="jslogo.png" link="https://www.youtube.com/watch?v=9M4XKi25I2M"/>
           </Box>
           <HtmlTag text="</section>" />
         </Box>

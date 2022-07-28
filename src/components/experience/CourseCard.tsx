@@ -11,7 +11,7 @@ export default function CourseCard(props: {
       <div className="course-container" onClick={()=> 
         // eslint-disable-next-line no-restricted-globals
         location.href = props.link}>
-        <div style={{height: '10vw', padding: '10px'}}>
+        <div style={{height: '150px', width: '130px', padding: '10px'}}>
             <img src={props.pic} style={{width: '100%', height: '100%'}}alt=""/>
         </div>
         

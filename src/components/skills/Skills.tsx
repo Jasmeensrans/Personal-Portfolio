@@ -48,7 +48,7 @@ export default function Skills() {
           <p style={{ fontFamily: "Ubuntu Mono", color: "white" }}>
             <TypeAnimation
               cursor={true}
-              sequence={[" The technologies I am profiecent in.", 1000, " "]}
+              sequence={[" The technologies I am proficient in.", 1000, " "]}
               wrapper="p"
               repeat={Infinity}
             />

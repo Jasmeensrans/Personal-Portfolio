@@ -24,7 +24,7 @@ export default function BackToTop() {
     <>
       {showButton && (
         <button onClick={scrollToTop} className="back-to-top">
-          <IconContext.Provider value={{ color: "BB4AFF", size: "3em" }}>
+          <IconContext.Provider value={{ color: "BB4AFF", size: "2em" }}>
           <AiOutlineArrowUp />
           </IconContext.Provider>
           

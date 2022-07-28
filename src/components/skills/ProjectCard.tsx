@@ -93,7 +93,12 @@ export default function ProjectCard(props: {
                   {props.info}
                 </p>
                 <div style={{ float: "right" }}>
-                  <CustomButton text="see it on Github" />
+                  <CustomButton text="see it on Github" onClick={() =>
+                    // eslint-disable-next-line no-restricted-globals
+                    (location.href =
+                      "https://github.com/Jasmeensrans/Personal-Portfolio")
+                  }
+                  />
                 </div>
               </Box>
               <br />

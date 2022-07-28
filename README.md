@@ -4,7 +4,7 @@ This project is a portfolio displaying my skills, experience, projects and more
 
 ## Project Structure
 - Each section is seperated into react components
-- Common components used across all section are stored in the Common folder
+- Common components used across all sections are stored in the Common folder
 - Material UI is used for styling and spacing along with custom CSS
 - Typing animations are creating using the react-typing-animation library
 - Transition animations are done using react-spring and react-reveal

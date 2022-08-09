@@ -87,7 +87,7 @@ export default function Experience() {
             <div style={{display: 'inline-block', verticalAlign: 'top'}}>
               <Typography variant="h4" style={{color: 'white', fontFamily:"Ubuntu Mono"}}>Xero Accounting Software</Typography>
             <p style={{color: 'white', fontFamily: 'Ubuntu Mono', fontWeight: "bold"}}>Software Engineer Intern</p>
-            <p style={{color: 'white', fontFamily: 'Ubuntu Mono'}}><i>September 2019 - May 2024</i></p>
+            <p style={{color: 'white', fontFamily: 'Ubuntu Mono'}}><i>May 2022 - August 2023</i></p>
             <ul style={{color: 'white', fontFamily: 'Ubuntu Mono'}}>
               <li>Modernized front-end legacy features using React in order to improve user experience</li>
               <li>Programmed back-end API services in ASP .NET</li>

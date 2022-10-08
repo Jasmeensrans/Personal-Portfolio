@@ -66,7 +66,7 @@ export default function Experience() {
             <div style={{display: 'inline-block'}}><img src="uoft.png" alt=""/></div>
             <div style={{display: 'inline-block', verticalAlign: 'top'}}>
               <Typography variant="h4" style={{color: 'white', fontFamily:"Ubuntu Mono"}}>University of Toronto</Typography>
-            <p style={{color: 'white', fontFamily: 'Ubuntu Mono'}}>Computer Science Specalist, Bacholer of Science</p>
+            <p style={{color: 'white', fontFamily: 'Ubuntu Mono'}}>Computer Science Specialist, Bachelor  of Science</p>
             <p style={{color: 'white', fontFamily: 'Ubuntu Mono'}}><i>September 2019 - May 2024</i></p>
             </div>
           </Box>
